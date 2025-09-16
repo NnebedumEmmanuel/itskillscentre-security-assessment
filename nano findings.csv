@@ -1,0 +1,9 @@
+Category,Finding,Severity,Status
+Recon,Origin IP Found (192.185.93.75),Info,Confirmed
+Recon,SPF Record Analysis (websitewelcome.com),Info,Confirmed
+Config,Cloudflare WAF Bypass Failed,Info,Confirmed
+Config,CSRF Protection on Login,Info,Confirmed
+Tech Stack,Laravel Framework,Info,Confirmed
+Tech Stack,jQuery 3.5.1,Info,Confirmed
+Vulnerability,Public Critical Vulnerabilities,None,No findings
+Next Step,Authenticated Testing,Blocked,Pending Client Credentials
