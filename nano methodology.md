@@ -37,3 +37,4 @@ curl -H "X-Original-URL: /admin" https://itskillscentre.com.ng/
 curl -I https://itskillscentre.com.ng/.env
 curl -I https://itskillscentre.com.ng/robots.txt
 ```
+
